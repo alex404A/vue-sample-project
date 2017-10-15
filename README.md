@@ -1,6 +1,6 @@
-# test-project
+# vue sample project
 
-> Test project
+> Vue sample project
 
 ## Build Setup
 
