@@ -2,6 +2,14 @@
 
 > Vue sample project
 
+# Test
+
+<table>
+  <tr>
+    <td>Foo</td>
+  </tr>
+</table>
+
 ## Build Setup
 
 ``` bash
